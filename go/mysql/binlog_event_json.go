@@ -23,10 +23,10 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/dolthub/vitess/go/sqltypes"
-	querypb "github.com/dolthub/vitess/go/vt/proto/query"
-	"github.com/dolthub/vitess/go/vt/proto/vtrpc"
-	"github.com/dolthub/vitess/go/vt/vterrors"
+	"github.com/Sndav/vitess/go/sqltypes"
+	querypb "github.com/Sndav/vitess/go/vt/proto/query"
+	"github.com/Sndav/vitess/go/vt/proto/vtrpc"
+	"github.com/Sndav/vitess/go/vt/vterrors"
 )
 
 const (

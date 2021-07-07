@@ -23,15 +23,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dolthub/vitess/go/netutil"
-	"github.com/dolthub/vitess/go/sqltypes"
-	"github.com/dolthub/vitess/go/stats"
-	"github.com/dolthub/vitess/go/sync2"
-	"github.com/dolthub/vitess/go/tb"
-	"github.com/dolthub/vitess/go/vt/log"
-	querypb "github.com/dolthub/vitess/go/vt/proto/query"
-	"github.com/dolthub/vitess/go/vt/proto/vtrpc"
-	"github.com/dolthub/vitess/go/vt/vterrors"
+	"github.com/Sndav/vitess/go/netutil"
+	"github.com/Sndav/vitess/go/sqltypes"
+	"github.com/Sndav/vitess/go/stats"
+	"github.com/Sndav/vitess/go/sync2"
+	"github.com/Sndav/vitess/go/tb"
+	"github.com/Sndav/vitess/go/vt/log"
+	querypb "github.com/Sndav/vitess/go/vt/proto/query"
+	"github.com/Sndav/vitess/go/vt/proto/vtrpc"
+	"github.com/Sndav/vitess/go/vt/vterrors"
 )
 
 const (

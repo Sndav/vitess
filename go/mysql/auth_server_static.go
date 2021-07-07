@@ -28,10 +28,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/dolthub/vitess/go/vt/log"
-	querypb "github.com/dolthub/vitess/go/vt/proto/query"
-	"github.com/dolthub/vitess/go/vt/proto/vtrpc"
-	"github.com/dolthub/vitess/go/vt/vterrors"
+	"github.com/Sndav/vitess/go/vt/log"
+	querypb "github.com/Sndav/vitess/go/vt/proto/query"
+	"github.com/Sndav/vitess/go/vt/proto/vtrpc"
+	"github.com/Sndav/vitess/go/vt/vterrors"
 )
 
 var (

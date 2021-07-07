@@ -30,7 +30,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dolthub/vitess/go/vt/vttls"
+	"github.com/Sndav/vitess/go/vt/vttls"
 	"github.com/stretchr/testify/assert"
 )
 

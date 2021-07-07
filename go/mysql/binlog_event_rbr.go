@@ -24,11 +24,11 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dolthub/vitess/go/sqltypes"
-	"github.com/dolthub/vitess/go/vt/proto/vtrpc"
-	"github.com/dolthub/vitess/go/vt/vterrors"
+	"github.com/Sndav/vitess/go/sqltypes"
+	"github.com/Sndav/vitess/go/vt/proto/vtrpc"
+	"github.com/Sndav/vitess/go/vt/vterrors"
 
-	querypb "github.com/dolthub/vitess/go/vt/proto/query"
+	querypb "github.com/Sndav/vitess/go/vt/proto/query"
 )
 
 // ZeroTimestamp is the special value 0 for a timestamp.

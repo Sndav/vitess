@@ -24,9 +24,9 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	"github.com/dolthub/vitess/go/sqltypes"
+	"github.com/Sndav/vitess/go/sqltypes"
 
-	querypb "github.com/dolthub/vitess/go/vt/proto/query"
+	querypb "github.com/Sndav/vitess/go/vt/proto/query"
 )
 
 // Utility function to write sql query as packets to test parseComPrepare

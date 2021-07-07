@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dolthub/vitess/go/vt/proto/vttime"
+	"github.com/Sndav/vitess/go/vt/proto/vttime"
 	"github.com/golang/protobuf/proto"
 )
 

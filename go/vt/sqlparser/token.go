@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/dolthub/vitess/go/bytes2"
-	"github.com/dolthub/vitess/go/sqltypes"
-	"github.com/dolthub/vitess/go/vt/vterrors"
+	"github.com/Sndav/vitess/go/bytes2"
+	"github.com/Sndav/vitess/go/sqltypes"
+	"github.com/Sndav/vitess/go/vt/vterrors"
 )
 
 const (

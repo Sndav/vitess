@@ -19,7 +19,7 @@ package logutil
 import (
 	"fmt"
 
-	"github.com/dolthub/vitess/go/vt/log"
+	"github.com/Sndav/vitess/go/vt/log"
 )
 
 // ConsoleLogger is a Logger that uses glog directly to log, at the right level.

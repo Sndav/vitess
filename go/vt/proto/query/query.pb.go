@@ -7,8 +7,8 @@ import (
 	fmt "fmt"
 	math "math"
 
-	topodata "github.com/dolthub/vitess/go/vt/proto/topodata"
-	vtrpc "github.com/dolthub/vitess/go/vt/proto/vtrpc"
+	topodata "github.com/Sndav/vitess/go/vt/proto/topodata"
+	vtrpc "github.com/Sndav/vitess/go/vt/proto/vtrpc"
 	proto "github.com/golang/protobuf/proto"
 )
 

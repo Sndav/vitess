@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dolthub/vitess/go/sqltypes"
-	querypb "github.com/dolthub/vitess/go/vt/proto/query"
+	"github.com/Sndav/vitess/go/sqltypes"
+	querypb "github.com/Sndav/vitess/go/vt/proto/query"
 )
 
 func TestCellLengthAndData(t *testing.T) {

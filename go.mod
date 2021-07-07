@@ -1,4 +1,4 @@
-module github.com/dolthub/vitess
+module github.com/Sndav/vitess
 
 go 1.12
 

@@ -30,14 +30,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dolthub/vitess/go/bucketpool"
-	"github.com/dolthub/vitess/go/sqltypes"
-	"github.com/dolthub/vitess/go/sync2"
-	"github.com/dolthub/vitess/go/vt/log"
-	querypb "github.com/dolthub/vitess/go/vt/proto/query"
-	"github.com/dolthub/vitess/go/vt/proto/vtrpc"
-	"github.com/dolthub/vitess/go/vt/sqlparser"
-	"github.com/dolthub/vitess/go/vt/vterrors"
+	"github.com/Sndav/vitess/go/bucketpool"
+	"github.com/Sndav/vitess/go/sqltypes"
+	"github.com/Sndav/vitess/go/sync2"
+	"github.com/Sndav/vitess/go/vt/log"
+	querypb "github.com/Sndav/vitess/go/vt/proto/query"
+	"github.com/Sndav/vitess/go/vt/proto/vtrpc"
+	"github.com/Sndav/vitess/go/vt/sqlparser"
+	"github.com/Sndav/vitess/go/vt/vterrors"
 )
 
 const (

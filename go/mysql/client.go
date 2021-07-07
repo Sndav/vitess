@@ -24,9 +24,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dolthub/vitess/go/vt/proto/vtrpc"
-	"github.com/dolthub/vitess/go/vt/vterrors"
-	"github.com/dolthub/vitess/go/vt/vttls"
+	"github.com/Sndav/vitess/go/vt/proto/vtrpc"
+	"github.com/Sndav/vitess/go/vt/vterrors"
+	"github.com/Sndav/vitess/go/vt/vttls"
 	"golang.org/x/net/context"
 )
 

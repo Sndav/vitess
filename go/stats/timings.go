@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dolthub/vitess/go/sync2"
+	"github.com/Sndav/vitess/go/sync2"
 )
 
 // Timings is meant to tracks timing data

@@ -25,8 +25,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dolthub/vitess/go/vt/tlstest"
-	"github.com/dolthub/vitess/go/vt/vttls"
+	"github.com/Sndav/vitess/go/vt/tlstest"
+	"github.com/Sndav/vitess/go/vt/vttls"
 )
 
 const clientCertUsername = "Client Cert"
